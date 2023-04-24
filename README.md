@@ -1,16 +1,50 @@
-### Hi there 👋
+### About me and my interest
 
-<!--
-**silviocardo/silviocardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Silvio Cardo
+located_in: Verona/Turin, Italy
+education:
+  [
+    "Master thesis @ETH Zurich",
+    "Master's in Automation Engineering @UNIPD Padova",
+    "Bachelor's in Information Engineering @UNIPD Padova",
+  ]
+current_job: Autonomous Driving Engineer
+company: Stellantis
+fields_of_interests:
+  [
+    "Music!",
+    "Web3 Development",
+    "Blockchain",
+    "Data Science",
+    "Machine Learning",
+    "DevOps",
+  ]
+skills_and_tools:
+  [
+    "Matlab",
+    "Simulink",
+    "Python",
+    "C/C++",
+    "CI/CD",
+    "Bash",
+    "Linux",
+    "Bazel",
+    "Docker",
+    "Agile Methodologies",
+  ]
+  
+currently_learning: ["Javascript"]
+hobbies: ["Discover new music", "Music production w/ Ableton"]
+```
 
-Here are some ideas to get you started:
+### Contacts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:slv.cardo@gmail.com">
+  <img height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/silviocardo/">
+  <img height="50" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
