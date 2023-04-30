@@ -2,7 +2,7 @@
 
 ```yaml
 name: Silvio Cardo
-located_in: Verona/Turin, Italy
+location: Verona-Turin, Italy
 education:
   [
     "Master thesis @ETH Zurich",
@@ -16,6 +16,7 @@ fields_of_interests:
     "Music!",
     "Web3 Development",
     "Blockchain",
+    "Computer Vision",
     "Data Science",
     "Machine Learning",
     "DevOps",
@@ -38,7 +39,7 @@ currently_learning: ["Javascript"]
 hobbies: ["Discover new music", "Music production w/ Ableton"]
 ```
 
-### Contacts
+### Contact
 
 <a href="mailto:slv.cardo@gmail.com">
   <img height="50" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
