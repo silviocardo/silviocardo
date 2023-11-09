@@ -14,6 +14,7 @@ company: Stellantis
 fields_of_interests:
   [
     "Music!",
+    "Robotics",
     "Web3 Development",
     "Blockchain",
     "Computer Vision",
