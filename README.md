@@ -36,7 +36,7 @@ skills_and_tools:
     "Agile Methodologies",
   ]
   
-currently_learning: ["Javascript"]
+currently_learning: ["iOS Development in Swift/SwiftUI"]
 hobbies: ["Discover new music", "Music production w/ Ableton"]
 ```
 
