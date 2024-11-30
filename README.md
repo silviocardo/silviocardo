@@ -14,13 +14,11 @@ company: Stellantis
 fields_of_interests:
   [
     "Music!",
+    "Autonomous systems",
     "Robotics",
-    "Web3 Development",
-    "Blockchain",
-    "Computer Vision",
-    "Data Science",
-    "Machine Learning",
-    "DevOps",
+    "Web Development",
+    "Blockchains and Web3",
+    "Perception",
   ]
 skills_and_tools:
   [
@@ -28,6 +26,7 @@ skills_and_tools:
     "Simulink",
     "Python",
     "C/C++",
+    "AUTOSAR",
     "CI/CD",
     "Bash",
     "Linux",
@@ -36,8 +35,8 @@ skills_and_tools:
     "Agile Methodologies",
   ]
   
-currently_learning: ["iOS Development in Swift/SwiftUI"]
-hobbies: ["Discover new music", "Music production w/ Ableton"]
+currently_learning: ["TypeScript, React"]
+hobbies: ["Discover new music", "DJ", "Music production w/ Ableton"]
 ```
 
 ### Contact
